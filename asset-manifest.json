@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/css/main.b24cadcf.chunk.css",
+    "main.js": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/main.3a468687.chunk.js",
+    "main.js.map": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/main.3a468687.chunk.js.map",
+    "runtime-main.js": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/runtime-main.9512d64c.js",
+    "runtime-main.js.map": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/runtime-main.9512d64c.js.map",
+    "static/js/2.f831dbdc.chunk.js": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/2.f831dbdc.chunk.js",
+    "static/js/2.f831dbdc.chunk.js.map": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/2.f831dbdc.chunk.js.map",
+    "index.html": "https://geauxweisbeck4.github.io/csb-d9oc8j/index.html",
+    "static/css/main.b24cadcf.chunk.css.map": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/css/main.b24cadcf.chunk.css.map",
+    "static/js/2.f831dbdc.chunk.js.LICENSE.txt": "https://geauxweisbeck4.github.io/csb-d9oc8j/static/js/2.f831dbdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9512d64c.js",
+    "static/js/2.f831dbdc.chunk.js",
+    "static/css/main.b24cadcf.chunk.css",
+    "static/js/main.3a468687.chunk.js"
+  ]
+}

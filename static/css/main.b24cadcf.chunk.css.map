@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,MACE,kBAAmB,CACnB,iBAAkB,CAClB,qBACF","file":"main.b24cadcf.chunk.css","sourcesContent":[".hero {\n  font-family: ubuntu;\n  text-align: center;\n  background-color: aqua;\n}\n"]}
